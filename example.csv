@@ -1,3 +1,6 @@
-title,description,lat,lng,marker-size,marker-color,stroke,stroke-width,radio-wave-strength
-Gateway,DoCoMoさんによるSIMカード付きのLoRaWANゲートウェイ,34.422666,134.056859,large,#FF0000,#FFFFFF,2,
-センサー 1,よんねえ,34.422324,34.422324,,#00ffff,#00ffff,1,1
+title,description,lat,lng,marker-size,marker-color,stroke,stroke-width,radio-wave-strength,sensor-id
+Gateway,DoCoMoさんによるSIMカード付きのLoRaWANゲートウェイ,34.422666,134.056859,large,#FF0000,#FFFFFF,2,,
+ドアセンサー1,よんさま,34.422324,134.054985,,#00ffff,#00ffff,1,1,A840419BF1830932
+ドアセンサー2,丸,34.419398,134.056827,,#00ffff,#00ffff,1,5,A84041F69183096A
+ドアセンサー3,まーこかっちゃん,34.418514,134.056013,,#00ffff,#00ffff,1,5,A840419BF1830932
+ドアセンサー4,あさこ,34.422729,134.056766,,#00ffff,#00ffff,1,10,A84041C91183096C
