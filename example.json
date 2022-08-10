@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gateway",
+        "description": "DoCoMoさんによるSIMカード付きのLoRaWANゲートウェイ",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "3",
+        "radio-wave-strength": "",
+        "sensor-id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056859,
+          34.422666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "0",
+        "description": "よん",
+        "marker-size": "small",
+        "marker-color": "#d6ffe1",
+        "stroke": "#d6ffe1",
+        "stroke-width": "1",
+        "radio-wave-strength": "",
+        "sensor-id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.054985,
+          34.422324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2",
+        "description": "まるい",
+        "marker-size": "medium",
+        "marker-color": "#45ff76",
+        "stroke": "#45ff76",
+        "stroke-width": "1",
+        "radio-wave-strength": "",
+        "sensor-id": "96A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056827,
+          34.419398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3",
+        "description": "まか",
+        "marker-size": "large",
+        "marker-color": "#00ff44",
+        "stroke": "#00ff44",
+        "stroke-width": "2",
+        "radio-wave-strength": "",
+        "sensor-id": "932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056013,
+          34.418514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3",
+        "description": "あさこ",
+        "marker-size": "large",
+        "marker-color": "#00ff44",
+        "stroke": "#00ff44",
+        "stroke-width": "2",
+        "radio-wave-strength": "",
+        "sensor-id": "96C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056766,
+          34.422729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1",
+        "description": "いつえ",
+        "marker-size": "small",
+        "marker-color": "#96ffb2",
+        "stroke": "#96ffb2",
+        "stroke-width": "1",
+        "radio-wave-strength": "",
+        "sensor-id": "917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055617,
+          34.420053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1",
+        "description": "おお",
+        "marker-size": "small",
+        "marker-color": "#96ffb2",
+        "stroke": "#96ffb2",
+        "stroke-width": "1",
+        "radio-wave-strength": "",
+        "sensor-id": "92B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055398,
+          34.420479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3",
+        "description": "まちこ",
+        "marker-size": "large",
+        "marker-color": "#00ff44",
+        "stroke": "#00ff44",
+        "stroke-width": "2",
+        "radio-wave-strength": "",
+        "sensor-id": "91F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055677,
+          34.418661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2",
+        "description": "いなづか",
+        "marker-size": "medium",
+        "marker-color": "#45ff76",
+        "stroke": "#45ff76",
+        "stroke-width": "",
+        "radio-wave-strength": "",
+        "sensor-id": "968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.057601,
+          34.420075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "0",
+        "description": "は",
+        "marker-size": "small",
+        "marker-color": "#d6ffe1",
+        "stroke": "#d6ffe1",
+        "stroke-width": "1",
+        "radio-wave-strength": "",
+        "sensor-id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055157,
+          34.42356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2",
+        "description": "ひろみ",
+        "marker-size": "medium",
+        "marker-color": "#45ff76",
+        "stroke": "#45ff76",
+        "stroke-width": "1",
+        "radio-wave-strength": "",
+        "sensor-id": "93E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056272,
+          34.420033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3",
+        "description": "テスト、た＆て",
+        "marker-size": "large",
+        "marker-color": "#00ff44",
+        "stroke": "#00ff44",
+        "stroke-width": "2",
+        "radio-wave-strength": "",
+        "sensor-id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056637,
+          34.422479
+        ]
+      }
+    }
+  ]
+}
